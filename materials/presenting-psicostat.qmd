@@ -1,0 +1,140 @@
+---
+title: "Psicostat"
+subtitle: "Research Group"
+institute: "University of Padova"
+date: last-modified 
+date-format: "[*Last update:*] MMMM D, YYYY"
+#footer: "*Last Update: {{< meta date >}}*"
+format: 
+  revealjs:
+    theme: [default, partials/custom.scss]
+    template-partials:
+        - partials/title-slide.html
+    embed-resources: true
+---
+
+
+## What is Psicostat?
+
+![](img/chi_siamo_2.png){fig-align="center" height="500px"}
+
+
+## The Core Team
+
+::: {layout-nrow=3}
+![Gianmarco Altoè](img/altoe.png)
+
+![Massimiliano Pastore](img/pastore.png)
+
+![Livio Finos](img/finos.png)
+
+![Giulia Calignano](img/calignano.png)
+
+![Ottavia Epifania](img/epifania.png)
+
+![Filippo Gambarota](img/gambarota.png)
+
+![Enrico Toffalini](img/toffalini.png)
+
+![Luca Menghini](img/menghini.png)
+
+![Ambra Perugini](img/perugini.png)
+
+![Margherita Calderan](img/calderan.png)
+
+![Marco Tullio Liuzza](img/liuzza.png)
+
+![Tommaso Feraco](img/feraco.png)
+:::
+
+## The Website
+
+![](img/web_s.png){fig-align="center"}
+
+<center>
+[https://psicostat.dpss.psy.unipd.it](https://psicostat.dpss.psy.unipd.it)
+</center>
+
+# Our Activities
+
+## The Psicostat Meetings
+
+:::{.smaller}
+- We meet twice a month on Zoom  
+- Each meeting lasts one hour and includes one presentation  
+- A lot of space is reserved for discussion (*the heart of Psicostat*)  
+- Topics: innovative statistical methods in Psychology, theoretical tutorials, projects, experimental designs, reflections on research, and societal impact  
+- **Anyone** is welcome to attend and present!  
+- **Omnia sunt communia!** – All materials are shared, presenters can be contacted for info or collaborations  
+- Presentations can serve as informal oral pre-registrations  
+- International mailing list with ~**300** members  
+- **Stay tuned!** [https://psicostat.dpss.psy.unipd.it/Activities.html](https://psicostat.dpss.psy.unipd.it/Activities.html)
+:::
+
+## We Want/Need You!
+
+- **Subscribe to our mailing list:**  
+  It's free, and you'll stay updated on meetings, articles, and initiatives!
+
+- **Never-ending call for presentations:**  
+  Send us your ideas—**acceptance rate ≈ 100%**!
+
+<center>
+**Find all info on our website!** [https://psicostat.dpss.psy.unipd.it/contact.html](https://psicostat.dpss.psy.unipd.it/contact.html)
+</center>
+
+# ARCA
+
+## In 2021/22, ARCA Was Born
+
+:::{.smaller}
+
+**Applied Research Courses Academy (ARCA)** [[website](https://www.dpss.unipd.it/applied-research-courses-academy-arca)]
+
+- Focused on applied research tools in Psychology  
+- High-level technical-methodological skills  
+- Courses for students to professors *(for now!)*  
+- Each course: 20 hours, 10–15 participants  
+- Some of the courses: PsychoPy3, EEGLAB, fNIRS, R, RMarkdown, Shiny Apps, Open Science Tools, Pupillometry
+
+:::
+
+<center>
+::: {.columns}
+::: {.column}
+For info: [arca.dpss@unipd.it](mailto:arca.dpss@unipd.it)
+:::
+::: {.column}
+![](img/arca_logo.png){width=100px}
+:::
+:::
+</center>
+
+## Oh, I Forgot!
+
+**Among Psicostat's main activities:**  
+
+. . .
+
+<center>
+*Psicostat Spritz Meetings* 🍹
+</center>
+
+![](img/cynar.png){height=350px fig-align="center"}
+
+> "Psicostat, against the wear and tear of modern life."
+
+## Thank You!
+
+</br>
+
+<center>
+Stay connected, stay curious, and join the **Psicostat** community!
+
+[https://psicostat.dpss.psy.unipd.it](https://psicostat.dpss.psy.unipd.it)
+
+</br>
+
+{{< qrcode https://psicostat.dpss.psy.unipd.it/ >}}
+
+</center>
