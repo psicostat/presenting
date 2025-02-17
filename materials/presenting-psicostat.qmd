@@ -10,7 +10,6 @@ format:
     theme: [default, partials/custom.scss]
     template-partials:
         - partials/title-slide.html
-    embed-resources: true
 ---
 
 
@@ -111,6 +110,7 @@ For info: [arca.dpss@unipd.it](mailto:arca.dpss@unipd.it)
 </center>
 
 ## ARCA Summer School
+
 
 The Summer School consists of four independent weekly modules, led by academic and non-academic experts about programming experiments, analyzing EEG, fNIRS and online Eye-Tracking data and literate programming with Quarto.
 
