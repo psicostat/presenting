@@ -110,6 +110,12 @@ For info: [arca.dpss@unipd.it](mailto:arca.dpss@unipd.it)
 :::
 </center>
 
+## ARCA Summer School
+
+The Summer School consists of four independent weekly modules, led by academic and non-academic experts about programming experiments, analyzing EEG, fNIRS and online Eye-Tracking data and literate programming with Quarto.
+
+![[https://www.unipd.it/en/arca-initiative](https://www.unipd.it/en/arca-initiative)](img/arca-summer-school.png){fig-align="center"}
+
 ## Oh, I Forgot!
 
 **Among Psicostat's main activities:**  
