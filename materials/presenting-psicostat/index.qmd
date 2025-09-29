@@ -7,10 +7,10 @@ date-format: "[*Last update:*] MMMM D, YYYY"
 #footer: "*Last Update: {{< meta date >}}*"
 format: 
   revealjs:
-    theme: [default, ../files/custom.scss]
+    theme: [default, ../../files/custom.scss]
     template-partials:
-      - ../files/title-slide.html
-    logo: ../files/favicon.png
+      - ../../files/title-slide.html
+    logo: ../../files/favicon.png
 ---
 
 
