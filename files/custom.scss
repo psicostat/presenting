@@ -1,0 +1,30 @@
+/*-- scss:rules --*/
+
+.quarto-layout-cell img {
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    padding: 0;
+    margin: 0;
+}
+
+figcaption {
+    font-size: 0.5em!important;
+    text-align: center;
+}
+
+.smaller {
+    font-size: 80%;
+}
+
+.reveal .slide-menu-button {
+    display: none!important;
+}
+  
+.reveal .progress {
+    display: none!important;
+}
+
+.date {
+    font-size: 20px;
+}

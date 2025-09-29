@@ -7,9 +7,10 @@ date-format: "[*Last update:*] MMMM D, YYYY"
 #footer: "*Last Update: {{< meta date >}}*"
 format: 
   revealjs:
-    theme: [default, partials/custom.scss]
+    theme: [default, ../files/custom.scss]
     template-partials:
-        - partials/title-slide.html
+      - ../files/title-slide.html
+    logo: ../files/favicon.png
 ---
 
 
@@ -67,7 +68,7 @@ format:
 - **Omnia sunt communia!** – All materials are shared, presenters can be contacted for info or collaborations  
 - Presentations can serve as informal oral pre-registrations  
 - International mailing list with ~**300** members  
-- **Stay tuned!** [https://psicostat.dpss.psy.unipd.it/Activities.html](https://psicostat.dpss.psy.unipd.it/Activities.html)
+- **Stay tuned!** [https://psicostat.dpss.psy.unipd.it/pages/meetings.html](https://psicostat.dpss.psy.unipd.it/pages/meetings.html)
 :::
 
 ## We Want/Need You!
@@ -79,7 +80,7 @@ format:
   Send us your ideas—**acceptance rate ≈ 100%**!
 
 <center>
-**Find all info on our website!** [https://psicostat.dpss.psy.unipd.it/contact.html](https://psicostat.dpss.psy.unipd.it/contact.html)
+**Find all info on our website!** [https://psicostat.dpss.psy.unipd.it/pages/contacts.html](https://psicostat.dpss.psy.unipd.it/pages/contacts.html)
 </center>
 
 # ARCA
@@ -88,7 +89,7 @@ format:
 
 :::{.smaller}
 
-**Applied Research Courses Academy (ARCA)** [[website](https://www.dpss.unipd.it/applied-research-courses-academy-arca)]
+**Applied Research Courses Academy (ARCA)** [[website](https://www.dpss.unipd.it/applied-research-courses-academy-arca)]. In any case, all the courses materials are available on {{< fa brands github >}} [https://github.com/arca-dpss](https://github.com/arca-dpss)
 
 - Focused on applied research tools in Psychology  
 - High-level technical-methodological skills  
@@ -108,13 +109,6 @@ For info: [arca.dpss@unipd.it](mailto:arca.dpss@unipd.it)
 :::
 :::
 </center>
-
-## ARCA Summer School
-
-
-The Summer School consists of four independent weekly modules, led by academic and non-academic experts about programming experiments, analyzing EEG, fNIRS and online Eye-Tracking data and literate programming with Quarto.
-
-![[https://www.unipd.it/en/arca-initiative](https://www.unipd.it/en/arca-initiative)](img/arca-summer-school.png){fig-align="center"}
 
 ## Oh, I Forgot!
 
@@ -137,7 +131,9 @@ The Summer School consists of four independent weekly modules, led by academic a
 <center>
 Stay connected, stay curious, and join the **Psicostat** community!
 
-[https://psicostat.dpss.psy.unipd.it](https://psicostat.dpss.psy.unipd.it)
+{{< fa globe >}} [https://psicostat.dpss.psy.unipd.it](https://psicostat.dpss.psy.unipd.it)
+
+{{< fa brands github >}} [https://github.com/psicostat](https://github.com/psicostat)
 
 </br>
 
