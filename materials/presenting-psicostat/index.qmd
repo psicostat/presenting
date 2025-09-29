@@ -83,6 +83,22 @@ format:
 **Find all info on our website!** [https://psicostat.dpss.psy.unipd.it/pages/contacts.html](https://psicostat.dpss.psy.unipd.it/pages/contacts.html)
 </center>
 
+# HandZones
+
+## Handzones
+
+We organize also some smaller **in person** meetings on a specific problem or topic. See [here](https://psicostat.dpss.psy.unipd.it/pages/handzone.html).
+
+<iframe src="https://psicostat.dpss.psy.unipd.it/pages/handzone.html" height="500" width="1000"></iframe>
+
+# Teaching
+
+## Teaching
+
+We have a lot of courses for PhD and Master's students on different topics. See [here](https://psicostat.github.io/psicostat-teaching/).
+
+<iframe src="https://psicostat.github.io/psicostat-teaching/" height="500" width="1000"></iframe>
+
 # ARCA
 
 ## In 2021/22, ARCA Was Born
