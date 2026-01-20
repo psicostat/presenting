@@ -4,7 +4,6 @@ subtitle: "Research Group"
 institute: "University of Padova"
 date: last-modified 
 date-format: "[*Last update:*] MMMM D, YYYY"
-#footer: "*Last Update: {{< meta date >}}*"
 format: 
   revealjs:
     theme: [default, ../../files/custom.scss]
@@ -70,6 +69,12 @@ format:
 - International mailing list with ~**300** members  
 - **Stay tuned!** [https://psicostat.dpss.psy.unipd.it/pages/meetings.html](https://psicostat.dpss.psy.unipd.it/pages/meetings.html)
 :::
+
+## The Psicostat Meetings
+
+We have all the slides and recordings of previous meetings, see [here](https://psicostat.dpss.psy.unipd.it/pages/meetings.html). The next one could be yours :)
+
+<iframe src="https://psicostat.dpss.psy.unipd.it/pages/meetings.html" height="500" width="1000"></iframe>
 
 ## We Want/Need You!
 
