@@ -9,7 +9,8 @@ format:
     theme: [default, ../../files/custom.scss]
     template-partials:
       - ../../files/title-slide.html
-    logo: ../../files/favicon.png
+    #logo: ../../files/favicon.png
+logo: img/decennale.png
 ---
 
 
