@@ -2,4 +2,4 @@
 theme: minimal
 ---
 
-- presenting psicostat [slides](materials/presenting-psicostat/index.qmd)
+- Presenting Psicostat [slides](general/index.qmd)

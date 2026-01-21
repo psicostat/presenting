@@ -6,11 +6,10 @@ date: last-modified
 date-format: "[*Last update:*] MMMM D, YYYY"
 format: 
   revealjs:
-    theme: [default, ../../files/custom.scss]
+    theme: [default, ../files/custom.scss]
     template-partials:
-      - ../../files/title-slide.html
-    #logo: ../../files/favicon.png
-logo: img/decennale.png
+      - ../files/title-slide.html
+logo: "https://raw.githubusercontent.com/psicostat/visual-identity/master/logo/psicostat-decennale.png"
 ---
 
 
@@ -32,7 +31,7 @@ logo: img/decennale.png
 
 ![Ottavia Epifania](img/epifania.png)
 
-![Filippo Gambarota](img/gambarota.png)
+![Filippo Gambarota](img/gambarota.jpg)
 
 ![Enrico Toffalini](img/toffalini.png)
 
